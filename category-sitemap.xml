@@ -70,13 +70,6 @@
     </url>
 
     <url>
-        <loc>https://mds1455975151.github.io/categories/DevOps/</loc>
-        <lastmod>2020-04-03T07:09:14.046Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://mds1455975151.github.io/categories/%E8%87%AA%E5%8A%A8%E5%8C%96%E5%BC%80%E5%8F%91/</loc>
         <lastmod>2020-04-03T07:09:14.049Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -177,6 +170,13 @@
     <url>
         <loc>https://mds1455975151.github.io/categories/%E5%85%B6%E4%BB%96/</loc>
         <lastmod>2020-04-03T07:09:14.143Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mds1455975151.github.io/categories/DevOps/</loc>
+        <lastmod>2020-04-04T06:05:02.525Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
