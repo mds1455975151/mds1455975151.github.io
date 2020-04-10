@@ -77,13 +77,6 @@
     </url>
 
     <url>
-        <loc>https://mds1455975151.github.io/categories/CI-CD/</loc>
-        <lastmod>2020-04-03T07:09:14.064Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://mds1455975151.github.io/categories/GFW/</loc>
         <lastmod>2020-04-03T07:09:14.072Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -100,13 +93,6 @@
     <url>
         <loc>https://mds1455975151.github.io/categories/%E9%9F%B3%E4%B9%90/</loc>
         <lastmod>2020-04-03T07:09:14.086Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://mds1455975151.github.io/categories/%E6%B8%B8%E6%88%8F/</loc>
-        <lastmod>2020-04-03T07:09:14.092Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -140,14 +126,14 @@
     </url>
 
     <url>
-        <loc>https://mds1455975151.github.io/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/</loc>
+        <loc>https://mds1455975151.github.io/categories/Linux%E8%BF%90%E7%BB%B4/</loc>
         <lastmod>2020-04-03T07:09:14.101Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://mds1455975151.github.io/categories/Linux%E8%BF%90%E7%BB%B4/</loc>
+        <loc>https://mds1455975151.github.io/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/</loc>
         <lastmod>2020-04-03T07:09:14.101Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -175,8 +161,29 @@
     </url>
 
     <url>
+        <loc>https://mds1455975151.github.io/categories/%E6%B8%B8%E6%88%8F/</loc>
+        <lastmod>2020-04-06T07:55:43.769Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mds1455975151.github.io/categories/CI-CD/</loc>
+        <lastmod>2020-04-08T00:35:53.399Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://mds1455975151.github.io/categories/DevOps/</loc>
-        <lastmod>2020-04-04T06:09:49.312Z</lastmod>
+        <lastmod>2020-04-08T00:44:31.373Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://mds1455975151.github.io/categories/API%E7%AE%A1%E7%90%86/</loc>
+        <lastmod>2020-04-10T09:59:35.166Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
