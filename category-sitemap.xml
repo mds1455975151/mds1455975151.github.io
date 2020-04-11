@@ -126,14 +126,14 @@
     </url>
 
     <url>
-        <loc>https://mds1455975151.github.io/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/</loc>
+        <loc>https://mds1455975151.github.io/categories/Linux%E8%BF%90%E7%BB%B4/</loc>
         <lastmod>2020-04-03T07:09:14.101Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://mds1455975151.github.io/categories/Linux%E8%BF%90%E7%BB%B4/</loc>
+        <loc>https://mds1455975151.github.io/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/</loc>
         <lastmod>2020-04-03T07:09:14.101Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -175,15 +175,15 @@
     </url>
 
     <url>
-        <loc>https://mds1455975151.github.io/categories/DevOps/</loc>
-        <lastmod>2020-04-08T00:44:31.373Z</lastmod>
+        <loc>https://mds1455975151.github.io/categories/API%E7%AE%A1%E7%90%86/</loc>
+        <lastmod>2020-04-10T10:20:47.400Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://mds1455975151.github.io/categories/API%E7%AE%A1%E7%90%86/</loc>
-        <lastmod>2020-04-10T10:20:47.400Z</lastmod>
+        <loc>https://mds1455975151.github.io/categories/DevOps/</loc>
+        <lastmod>2020-04-11T07:30:19.904Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
